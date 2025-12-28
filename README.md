@@ -1,3 +1,3 @@
-<!-- STEAM_WORKSHOP_ITEM_BEGIN 1234567890 -->
+<!-- STEAM_WORKSHOP_ITEM_BEGIN 2745251188 https://github.com/S-Pladison/Better-Expert-Rarity -->
 ...
 <!-- STEAM_WORKSHOP_ITEM_END -->
