@@ -1,2 +1,5 @@
 <!--STEAM_STATS_START-->
+- S: 74718
+- F: 1370
+- V: 43998
 <!--STEAM_STATS_END-->
