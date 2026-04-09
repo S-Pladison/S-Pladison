@@ -2,7 +2,7 @@
 
 > ## Better Expert Rarity
 >
-> **46 667** views · **75 722** subs · **150 126** total installs · **1 454** favorites
+> **46 681** views · **75 733** subs · **150 176** total installs · **1 455** favorites
 >
 > [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2745251188) · [Repository](https://github.com/S-Pladison/Better-Expert-Rarity)
 
